@@ -1,3 +1,3 @@
 # IndiaWaterQuality
 
-###https://www.kaggle.com/datasets
+###https://www.kaggle.com/venkatramakrishnan/india-water-quality-data
